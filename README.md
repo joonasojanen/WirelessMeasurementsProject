@@ -1,3 +1,6 @@
+# Wireless Measurement Project
+This Git repository contains the source files for the Wireless Measurement Project, which implements a Medical Internet of Things (MIoT) solution for real-time health monitoring.
+
 ## APK
 Expo app can be found in folder "APK".
 
